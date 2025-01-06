@@ -9,12 +9,35 @@ Data could be got at *[ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/da
 ### Run
 '''
 python train_ACDC_AdaMix.py
-python train_promise12_AdaMix.py
 '''
+python train_promise12_AdaMix.py
+
 
 ### Outcome
 Our results are as follows:
 #### ACDC
+| Method       |   Reference    | #Lab.    | DSC↑   | mIoU↑  | 95HD↓  | ASD↓   |
+|--------------|-------|----------|--------|--------|--------|--------|
+| U-Net        |       | 3 (5%)   | 47.83  | 37.01  | 31.16  | 12.62  |
+| U-Net        |       | 7 (10%)  | 79.41  | 68.11  | 9.35   | 2.70   |
+| U-Net        |       | 70 (All) | 91.44  | 84.59  | 4.30   | 0.99   |
+| --------------------------------------------------------------------
+| UA-MT        | (MICCAI'19)      | 3 (5%)   | 46.04  | 35.97  | 20.08  | 7.75   |
+| SASSNet      | (MICCAI'20)      | 3 (5%)   | 57.77  | 46.14  | 20.05  | 6.06   |
+| DTC          | （AAAI'21）      | 3 (5%)   | 56.90  | 45.67  | 23.36  | 7.39   |
+| MC-Net       |  (MICCAI'21)     | 3 (5%)   | 62.85  | 52.29  | 7.62   | 2.33   |
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+
+
 ![avatar](./compare.png)
 
 #### PROMISE12
