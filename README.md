@@ -66,5 +66,5 @@ Our results are as follows:
 
 
 ## Acknowledgement
-We extend our heartfelt gratitude to ABD *[Markdown Guide](https://github.com/chy-upc/ABD)* for providing the code, which has been invaluable to our work.
+We extend our heartfelt gratitude to *[ABD](https://github.com/chy-upc/ABD)* for providing the code, which has been invaluable to our work.
 
