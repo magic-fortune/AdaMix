@@ -10,6 +10,10 @@ Data could be got at *[ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/da
 ```
 python train_ACDC_AdaMix.py
 python train_promise12_AdaMix.py
+python train_mmwhs_AdaMix.py
+python train_Synapse_AdaMix.py
+
+
 ```
 ### Outcome
 Our results are as follows:
