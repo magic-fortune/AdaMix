@@ -66,7 +66,7 @@ Our results are as follows:
 | **Ours**              |                   | 3 (10%)    | 32 (90%)   | **82.13** | **1.09** |
 
 ### Synapse
-![compare](./Synapse.png)
+![Synapse](./Synapse.png)
 
 | Method                 | Reference         | #Labeled   | #Unlabeled | DSC↑    | ASD↓    |
 |------------------------|-------------------|------------|------------|---------|---------|
@@ -83,7 +83,7 @@ Our results are as follows:
 | **Ours**              |                   | 3 (10%)    | 32 (90%)   | **82.13** | **1.09** |
 
 ### MMWHS
-![compare](./MMWHS.png)
+![MMWHS](./MMWHS.png)
 
 | Method                 | Reference         | #Labeled   | #Unlabeled | DSC↑    | ASD↓    |
 |------------------------|-------------------|------------|------------|---------|---------|
