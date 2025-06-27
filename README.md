@@ -1,7 +1,6 @@
 # AdaMix:Adaptive CutMix Strategy for Semi-Supervised Medical Image Segmentation with Confidence-Based Region Exchange
 ## Our frame:
-<img src="./framework.png" alt="avatar" style="width: 100%; height: auto;">
-
+![framework.png](./framework.png)
 
 ## About our code
 ### DataSet
