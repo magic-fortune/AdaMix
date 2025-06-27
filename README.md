@@ -13,6 +13,7 @@ python train_promise12_AdaMix.py
 python train_mmhws_AdaMix.py
 python train_synapse_AdaMix.py
 ```
+
 ### Outcome
 Our results are as follows:
 #### ACDC
@@ -69,7 +70,6 @@ Our results are as follows:
 
 ### Synapse
 ![Synapse](./Synapse.png)
-
 
 
 ### MMWHS
