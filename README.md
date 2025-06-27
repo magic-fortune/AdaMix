@@ -1,6 +1,6 @@
 # AdaMix:Adaptive CutMix Strategy for Semi-Supervised Medical Image Segmentation with Confidence-Based Region Exchange
 ## Our frame:
-![](./framework.png)
+<img src="./framework.png" alt="frame" width="400"/>
 
 ## About our code
 ### DataSet
@@ -50,7 +50,8 @@ Our results are as follows:
 | **Ours**     |            |          | **90.85**| **83.70**| 1.63| 0.59|
 
 
-![compare](./compare.png)
+
+<img src="./compare.png" alt="com" width="400"/>
 
 
 #### PROMISE12
@@ -69,12 +70,12 @@ Our results are as follows:
 | **Ours**              |                   | 3 (10%)    | 32 (90%)   | **82.13** | **1.09** |
 
 ### Synapse
-![Synapse](Synapse.png)
+<img src="./Synapse.png" alt="模型架构" width="400"/>
 
 
 ### MMWHS
-![MMWH](MMWHS.png)
 
+<img src="./MMWHS.png" alt="模型架构" width="400"/>
 
 ## Acknowledgement
 We extend our heartfelt gratitude to *[ABD](https://github.com/chy-upc/ABD)* for providing the code, which has been invaluable to our work.
