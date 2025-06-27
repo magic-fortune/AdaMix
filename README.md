@@ -70,12 +70,12 @@ Our results are as follows:
 | **Ours**              |                   | 3 (10%)    | 32 (90%)   | **82.13** | **1.09** |
 
 ### Synapse
-<img src="./Synapse.png" alt="模型架构" width="1000"/>
+<img src="./Synapse.png" alt="Synapse" width="1000"/>
 
 
 ### MMWHS
 
-<img src="./MMWHS.png" alt="模型架构" width="1000"/>
+<img src="./MMWHS.png" alt="MMWHS" width="1000"/>
 
 ## Acknowledgement
 We extend our heartfelt gratitude to *[ABD](https://github.com/chy-upc/ABD)* for providing the code, which has been invaluable to our work.
