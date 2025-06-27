@@ -47,8 +47,7 @@ Our results are as follows:
 | **Ours**     |            |          | **90.85**| **83.70**| 1.63| 0.59|
 
 
-<img src="./compare.png" alt="avatar" style="width: 60%; height: auto;">
-
+![compare](./compare.png)
 
 
 #### PROMISE12
